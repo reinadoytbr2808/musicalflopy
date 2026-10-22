@@ -11,10 +11,12 @@ Projeto original: [https://git.io/moppy](https://git.io/moppy)
 
 
 ## Autores
+
 - Reinaldo Mejia
 - Jhonathan Josue
 - Gustavo Alves
 - Ricardo Antonio
+
 
 
 ## Materiais Usados 
@@ -25,6 +27,12 @@ Projeto original: [https://git.io/moppy](https://git.io/moppy)
 - Fios Jumpers
 - 2 floppy
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11948ab4-c6dc-4644-807b-9709641d1630" />
+
+
+
+## 
+
+
 
 
 
