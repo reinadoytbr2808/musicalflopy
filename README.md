@@ -24,7 +24,7 @@ Projeto original: [https://git.io/moppy](https://git.io/moppy)
 - 1 Fonte de Alimentação ATX
 - Fios Jumpers
 - 2 floppy
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/efc60369-0c6f-40d2-94e9-8f561020e814" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11948ab4-c6dc-4644-807b-9709641d1630" />
 
 
 
